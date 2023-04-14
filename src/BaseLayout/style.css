@@ -1,0 +1,10 @@
+.baseLayout {
+    background-color: rgb(100, 163, 226);
+    padding: 15px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    position: fixed;
+    width: 100%;
+}
